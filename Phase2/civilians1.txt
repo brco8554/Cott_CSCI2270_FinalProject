@@ -1,0 +1,72 @@
+town,name,hair,eyes
+Creabury,Aku Aku,rainbow,yellow
+Creabury,Coco Bandicoot,blonde,green
+Creabury,Crash Bandicoot,brown,green
+Creabury,Crunch Bandicoot,brown,green
+Creabury,Dingodile,brown,yellow
+Creabury,Neo Cortex,black,black
+Creabury,N. Brio,none,black
+Creabury,N. Gin,red,black
+Creabury,Pinstripe Potoroo,black,yellow
+Creabury,Ripper Roo,blue,yellow
+Creabury,Tawna Bandicoot,blonde,green
+Creabury,Tiny Tiger,orange,yellow
+Creabury,Uka Uka,none,yellow
+Creabury,N. Tropy,none,yellow
+Creabury,Madame Amberly,brown,black
+Creabury,Papu Papu,black,black
+Creabury,N. Trance,none,green
+Creabury,Fake Crash,brown,green
+Creabury,Nina Cortex,black,black
+Creabury,Koala Kong,grey,black
+Cudset,Dio Brando,blonde,yellow
+Cudset,Jonathan Joestar,blue,blue
+Phiobrence,Alistair,blonde,brown
+Phiobrence,Morrigan,black,yellow
+Phiobrence,Leliana,red,green
+Phiobrence,Varric Tethras,blonde,brown
+Phiobrence,Merril,black,blue
+Phiobrence,Oghren,red,blue
+Phiobrence,Duncan,black,brown
+Phiobrence,Anders,blonde,brown
+Heofding,Garrus Vakarian,none,black
+Heofding,Mordin Solus,none,black
+Heofding,Commander Shepard,brown,blue
+Heofding,Kaiden Alenko,black,brown
+Heofding,Liara T'Soni,none,blue
+Heofding,Ashley Williams,black,brown
+Heofding,Tali'Zorah nar Rayya,none,yellow
+Eajumro,Sterling Archer,black,blue
+Eajumro,Lana Kane,black,brown
+Eajumro,Cyril Figgis,black,brown
+Izatta,Isaac Clarke,brown,blue
+Gugence,Carth Onasi,brown,brown
+Gugence,Mission Vao,none,blue
+Gugence,Jolee Bindo,none,brown
+Gugence,HK-47,none,yellow
+Gugence,Zaalbar,brown,brown
+Gugence,T3-M4,none,blue
+Gugence,Bastila Shan,brown,blue
+Gugence,Canderous Ordo,grey,blue
+Gugence,Kreia,grey,black
+Gugence,Atton Rand,brown,brown
+Gugence,Bao-Dur,none,brown
+Gugence,Brianna,grey,blue
+Gugence,Mira,red,green
+Gugence,Visas Marr,black,black
+Gugence,G0-T0,none,yellow
+Crul,Phoenix Wright,black,blue
+Crul,Apollo Justice,brown,brown
+Crul,Rick Sanchez,grey,black
+Crul,Morty Smith,brown,black
+Krada,Geralt,grey,yellow
+Krada,Dandelion,brown,blue
+Krada,Milva,brown,green
+Krada,Emiel Regis Rohellec Terzieff-Godefroy,grey,black
+Krada,Cahir Mawr Dyffryn aep Ceallach,black,blue
+Krada,Angouleme,blonde,brown
+Strago,Frank,black,brown
+Strago,Dee,blonde,blue
+Strago,Dennis,brown,blue
+Strago,Charlie,brown,brown
+Strago,Mac,brown,brown
